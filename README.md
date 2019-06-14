@@ -2,15 +2,15 @@
 ## Build Setup
 
 ```bash
-# Install dependencies
-$ npm install
+# install dependencies
+$ yarn
 
-# Serve with hot reload at localhost:3000
-$ npm run dev
+# serve with hot reload at localhost:3000
+$ yarn dev
 
-# Build for production and launch server
-$ npm run build
-$ npm start
+# build for production and launch server
+$ yarn build
+$ yarn start
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
